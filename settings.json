@@ -1,5 +1,6 @@
 {
   "shouldDown": false,
+  "shouldUp": true,
   "mine": ["stabby", "the_king"],
   "uppingTargets": ["the_king"],
   "fluctuateLeaderIndexWhenOnTop": true,
