@@ -2,7 +2,7 @@
   "shouldDown": true,
   "shouldUp": false,
   "mine": ["stabby", "the_king"],
-  "downingTargets": ["joebartolozzi", "zodicalpeak", "wetwipee"],
+  "downingTargets": ["restock-flippers"],
   "uppingTargets": ["the_king"],
   "fluctuateLeaderIndexWhenOnTop": true,
   "fluctuateCount": 4,
