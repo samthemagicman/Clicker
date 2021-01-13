@@ -1,0 +1,7 @@
+{
+  "mine": ["stabby", "the_king"],
+  "fluctuateLeaderIndexWhenOnTop": true,
+  "fluctuateCount": 2,
+  "leaderTargetIndex": 0,
+  "upCooldownWhenOnTop": "5"
+}
