@@ -1,7 +1,11 @@
 {
+  "shouldDown": false,
   "mine": ["stabby", "the_king"],
+  "uppingTarget": ["stabby", "the_king"],
   "fluctuateLeaderIndexWhenOnTop": true,
   "fluctuateCount": 2,
   "leaderTargetIndex": 0,
-  "upCooldownWhenOnTop": "5"
+  "leaderboardRefreshInterval": "60",
+  "slowWhenOnTop": true,
+  "uppingCooldownWhenOnTop": "5"
 }
