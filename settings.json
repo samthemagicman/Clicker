@@ -2,7 +2,7 @@
   "shouldDown": true,
   "shouldUp": false,
   "mine": ["stabby", "the_king"],
-  "downingTargets": ["god_and_anime", "zodicalpeak", "wetwipee"],
+  "downingTargets": ["joebartolozzi", "zodicalpeak", "wetwipee"],
   "uppingTargets": ["the_king"],
   "fluctuateLeaderIndexWhenOnTop": true,
   "fluctuateCount": 4,
