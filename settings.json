@@ -1,7 +1,7 @@
 {
-  "shouldDown": true,
+  "shouldDown": false,
   "mine": ["stabby", "the_king"],
-  "uppingTargets": ["stabby", "the_king"],
+  "uppingTargets": ["the_king"],
   "fluctuateLeaderIndexWhenOnTop": true,
   "fluctuateCount": 4,
   "leaderTargetIndex": 0,
