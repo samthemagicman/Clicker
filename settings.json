@@ -2,6 +2,7 @@
   "shouldDown": true,
   "shouldUp": false,
   "mine": ["stabby", "the_king"],
+  "downingTargets": ["god_and_anime", "three_headed_cat"],
   "uppingTargets": ["the_king"],
   "fluctuateLeaderIndexWhenOnTop": true,
   "fluctuateCount": 4,
