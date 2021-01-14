@@ -1,8 +1,8 @@
 {
-  "shouldDown": false,
-  "shouldUp": true,
+  "shouldDown": true
+  "shouldUp": false,
   "mine": ["stabby", "the_king"],
-  "downingTargets": ["three_headed_cat", "god_and_anime", "wetwipee"],
+  "downingTargets": ["restock-flippers", "god_squad"],
   "uppingTargets": ["the_king"],
   "fluctuateLeaderIndexWhenOnTop": true,
   "fluctuateCount": 4,
