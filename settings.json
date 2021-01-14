@@ -2,7 +2,7 @@
   "shouldDown": true,
   "shouldUp": false,
   "mine": ["stabby", "the_king"],
-  "downingTargets": ["restock-flippers"],
+  "downingTargets": ["three_headed_cat", "god_and_anime", "wetwipee"],
   "uppingTargets": ["the_king"],
   "fluctuateLeaderIndexWhenOnTop": true,
   "fluctuateCount": 4,
