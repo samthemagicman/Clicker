@@ -2,7 +2,7 @@
   "shouldDown": true,
   "shouldUp": true,
   "mine": ["stabby", "the_king"],
-  "downingTargets": ["restock-flippers", "god_squad"],
+  "downingTargets": ["restock-flippers"],
   "uppingTargets": ["the_king"],
   "fluctuateLeaderIndexWhenOnTop": true,
   "fluctuateCount": 4,
