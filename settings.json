@@ -8,6 +8,6 @@
   "fluctuateCount": 4,
   "leaderTargetIndex": 0,
   "leaderboardRefreshInterval": "60",
-  "slowWhenOnTop": true,
+  "slowWhenOnTop": false,
   "uppingCooldownWhenOnTop": "5"
 }
