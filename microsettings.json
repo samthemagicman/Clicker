@@ -1,8 +1,8 @@
 {
-  "shouldDown": false,
-  "shouldUp": true,
+  "shouldDown": true,
+  "shouldUp": false,
   "mine": ["stabby", "the_king"],
-  "downingTargets": [],
+  "downingTargets": ["god_squad", "the_penguin"],
   "uppingTargets": ["the_king"],
   "fluctuateLeaderIndexWhenOnTop": true,
   "fluctuateCount": 4,
