@@ -9,5 +9,5 @@
   "leaderTargetIndex": 0,
   "leaderboardRefreshInterval": "60",
   "slowWhenOnTop": false,
-  "uppingCooldownWhenOnTop": "5"
+  "uppingCooldownWhenOnTop": "0"
 }
