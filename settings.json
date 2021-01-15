@@ -1,5 +1,5 @@
 {
-  "shouldDown": true,
+  "shouldDown": false,
   "shouldUp": true,
   "mine": ["stabby", "the_king"],
   "downingTargets": [],
