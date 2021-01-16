@@ -1,6 +1,6 @@
 {
   "shouldDown": false,
-  "shouldUp": false,
+  "shouldUp": true,
   "mine": ["stabby", "the_king"],
   "downingTargets": ["god_squad", "the_penguin", "restock-flippers"],
   "uppingTargets": ["the_king"],
