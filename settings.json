@@ -1,9 +1,9 @@
 {
-  "shouldDown": true,
-  "shouldUp": false,
+  "shouldDown": false,
+  "shouldUp": true,
   "mine": ["stabby", "the_king"],
-  "downingTargets": ["restock-flippers"],
-  "uppingTargets": [],
+  "downingTargets": [],
+  "uppingTargets": ["the_king"],
   "fluctuateLeaderIndexWhenOnTop": true,
   "fluctuateCount": 4,
   "leaderTargetIndex": 0,
